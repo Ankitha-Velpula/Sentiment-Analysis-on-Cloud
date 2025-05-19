@@ -5,7 +5,6 @@ The primary goal of this project is to develop a real-time sentiment analysis sy
 - [Project Description](#project-description)
 - [Dataset Overview](#dataset-overview)
 - [Implemented Models and Results](#implemented-models-and-results)
-- [Contributors](#contributors)
 
 ## Project Description
 The real time system aims to classify each review as positive, neutral, or negative, providing immediate feedback to both sellers and buyers. The analysis will help sellers improve their products and services and give prospective buyers insights into product quality and customer satisfaction.
@@ -32,15 +31,5 @@ Repository Structure
 
 - **dockerfile-pipeline/**: Dockerfile to run exploratory data analysis and upload models to S3.
 
-## Web App
-![web1](https://github.com/MSIA/Cloud_Proj_Group6/assets/60202992/76092b27-3c03-4108-92af-7ad551757486)
-![web2](https://github.com/MSIA/Cloud_Proj_Group6/assets/60202992/a025c300-58bb-4dfa-a9b7-741e43fa37ad)
-![web3](https://github.com/MSIA/Cloud_Proj_Group6/assets/60202992/bbbc029c-a5dd-4474-a7a4-cc20b98fdb7b)
 
 
-## Contributors
-- Yumin Zhang
-- Xiyi Lin
-- Stella Wang
-- Yan Wang
-- Grace Xie
